@@ -1,0 +1,9 @@
+body{
+    background: #3a3434;
+}
+h1{
+    color: brown;
+}
+p {
+    color: color-mix(in oklab, color percentage, color percentage);
+}
